@@ -18,10 +18,10 @@ Execute the script to start the simulation using the following command : `python
 A window will open displaying the solar system. Each planet is following its orbit around the Sun, and their current distances are displayed in kilometers.
 
 ## Features
-** Planetary orbits ** : Displays orbits for Earth, Mars, Mercury and Venus around the sun
-** Dynamic simulation ** : Shows the movement and distance of the planets relative to the sun in real time
-** Distance display ** : Shows the current diatnce of each planet around the sun
-** Custom Physics engine** : Uses Newton's law of universal gravitation to simulate planetary motion
+**Planetary orbits** : Displays orbits for Earth, Mars, Mercury and Venus around the sun
+**Dynamic simulation** : Shows the movement and distance of the planets relative to the sun in real time
+**Distance display** : Shows the current diatnce of each planet around the sun
+**Custom Physics engine** : Uses Newton's law of universal gravitation to simulate planetary motion
 
 ## How it works
 - The simulation initializes with predefined planet objects, each having specific attributes like radius, mass, color and initial velocity
